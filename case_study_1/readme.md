@@ -1,5 +1,7 @@
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.projectpro.io%2Farticle%2Fchurn-models%2F709&psig=AOvVaw1F3Q93f0lg6SeFfs6EGmD4&ust=1696507203525000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDqooKs3IEDFQAAAAAdAAAAABAE
+https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png
+
+
 
 
 
