@@ -1,3 +1,5 @@
 # Deep_Learning-
 
-https://daxg39y63pxwu.cloudfront.net/images/blog/churn-models/Customer_Churn_Prediction_Models_in_Machine_Learning.png
+
+![image](https://github.com/polpratik68/Deep_Learning-/assets/132188237/0b4b5710-fbe0-4f10-addb-dbecd086f6d1)
+
